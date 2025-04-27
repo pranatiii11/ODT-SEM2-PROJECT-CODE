@@ -1,0 +1,5 @@
+Core Theme:
+Exploration of multi-sensory design through interaction, light, form, and reflection. Using analog and digital methods to showcase abstract ideas and learning from coding and prototyping through electronics.
+
+Each sensor- be it capacitive touch, sound or light, is triggered by the environment and the actions of the user. The circuit is programmed to create different of environments through light and sound change to create vastly different experiences. This is a representative of how every little action we take can have a strong impact on our environment. The user watches the entire setting within the box shift at the slightest touch. Moreover, different kinds of reflections are projected within with the box, because of the movement of the motor. These changing  patterns coupled with aan even mirror surface of the disco ball, represent distortion and perception. 
+The sensors are connected to lights of different colours, and a motor. The buzzer creates different sound patterns as well.
